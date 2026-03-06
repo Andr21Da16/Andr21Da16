@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:EF4444&height=120&section=header&text=Johel Andreé%20Vargas Villanueva&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7F1D1D,100:EF4444&height=120&section=header&text=Johel%20Vargas&fontSize=40&fontColor=ffffff" />
 </p>
 
 <p align="center">
